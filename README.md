@@ -95,7 +95,7 @@ Currently, I'm building my portfolio around real-world analytics projects using 
 <div align="center">
 <h3>💬 Let's connect and build something amazing together!</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nhật-nguyễn-457486354)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nh%E1%BA%ADt-nguy%E1%BB%85n-457486354/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nguyennhat7102)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nguyennhat7102@gmail.com)
 
