@@ -15,7 +15,7 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
 
-I'm a Computer Science student with a strong interest in Data Analytics and Business Intelligence. I enjoy transforming raw data into meaningful insights through SQL, Python, and data visualization.
+I'm a Computer Science student with a strong interest in **Data Analytics** and **Business Intelligence**. I enjoy transforming raw data into meaningful insights through SQL, Python, and data visualization.
 
 My projects focus on the end-to-end analytics workflow, including data cleaning, exploratory analysis, data modeling, customer segmentation, cohort analysis, and interactive dashboard development.
 
@@ -87,6 +87,25 @@ Currently, I'm building my portfolio around real-world analytics projects using 
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nguyennhat7102&theme=github-compact&hide_border=true" />
 
+</div>
+
+<div align="center">
+<h3>💬 Let's connect and build something amazing together!</h3>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nhatgiahuyt/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NhatGiaHuyT)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nhatgiahuyt@gmail.com)
+
+</div>
+
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+<div align="center">
+  <a href="https://github.com/NhatGiaHuyT/NhatGiaHuyT/blob/main/README.md">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" width="100%"/>
+  </a>
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
