@@ -21,6 +21,8 @@ My projects focus on the end-to-end analytics workflow, including data cleaning,
 
 Currently, I'm building my portfolio around real-world analytics projects using **SQL, Python, PostgreSQL, Power BI, and Looker Studio**, while also exploring **data mining and frequent itemset mining algorithms** from my Computer Science background.
 
+🎓 **Education:** Ton Duc Thang University — Computer Science  
+📊 **GPA:** 3.2/4.0  
 🎯 **Career Goal:** Data Analyst / BI Analyst / Business Analyst  
 📍 Ho Chi Minh City, Vietnam
 
