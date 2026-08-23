@@ -6,7 +6,7 @@
 <!-- Dynamic Text -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2000&pause=500&color=56F7ED&center=true&vCenter=true&width=435&lines=Data+Analyst+;Business+Intelligence;Business+Analyst)](https://git.io/typing-svg)
 
-
+</div>
 
 ## 🚀 About Me
 
@@ -18,7 +18,7 @@ My projects focus on the end-to-end analytics workflow, including data cleaning,
 
 Currently, I'm building my portfolio around real-world analytics projects using **SQL, Python, PostgreSQL, Power BI, and Looker Studio**, while also exploring **data mining and frequent itemset mining algorithms** from my Computer Science background.
 
-🎯 **Career Goal:** Data Analyst / BI Analyst  
+🎯 **Career Goal:** Data Analyst / BI Analyst / Business Analyst  
 📍 Ho Chi Minh City, Vietnam
 
 # 💻 Tech Stack:
