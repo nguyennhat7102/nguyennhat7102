@@ -67,9 +67,14 @@ Currently, I'm building my portfolio around real-world analytics projects using 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
   
   # 📊 GitHub Stats:
+  
+<div align="center">
+  
 ![](https://github-readme-stats.shion.dev/api?username=nguyennhat7102&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=nguyennhat7102&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=nguyennhat7102&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nguyennhat7102&theme=github-compact&hide_border=true" />
+
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
