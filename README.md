@@ -59,7 +59,17 @@ Currently, I'm building my portfolio around real-world analytics projects using 
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 <img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=chartdotjs&logoColor=white" />
 
+### ⚙️ Concept & Skills
+
+<img src="https://img.shields.io/badge/DAX-3B82F6?style=for-the-badge&logo=powerbi&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_Query-3B82F6?style=for-the-badge&logo=powerbi&logoColor=white" />
+<img src="https://img.shields.io/badge/Data_Modeling-3B82F6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Star_Schema-3B82F6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/KPI_Design-3B82F6?style=for-the-badge&logo=powerbi&logoColor=white" />
+<img src="https://img.shields.io/badge/Dashboard_Development-3B82F6?style=for-the-badge&logo=powerbi&logoColor=white" />
+<img src="https://img.shields.io/badge/Data_Visualization-3B82F6?style=for-the-badge&logo=abc&logoColor=white" />
 
 </div>
 
