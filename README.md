@@ -54,6 +54,7 @@ Currently, I'm building my portfolio around real-world analytics projects using 
 <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=visualparadigm&logoColor=white" />
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=soundcharts&logoColor=black" />
 <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=soundcharts&logoColor=white" />
 
 ### 🔧 Tools
 
